@@ -1,6 +1,5 @@
 ## Build Chirper with Inertia ReactJS
 
-![laravel-chirps-react](https://raw.githubusercontent.com/balalii/laravel-chirps-react/refs/heads/main/public/assets/chrip.png)
 
 ## Usage
 
@@ -49,12 +48,12 @@ Access account default:
 
 ```bash
 # Admin
-email: admin@localhost.com
-password: 1234567890
+email: admin@example.com
+password: password
 
 # User
-email: user@localhost.com
-password: 1234567890
+email: user@example.com
+password: password
 ```
 
 ## Application reference
@@ -65,8 +64,4 @@ https://bootcamp.laravel.com/inertia/installation
 
 https://docs.google.com/spreadsheets/d/1INqqSmca0M0ILlAZe-QK-s5bpMq6l7JC1hy97dQC4sk/edit?gid=0#gid=0
 
-## Contributor message
 
-"Yang asal nyomot tanpa contrib skill issue" -dot-1x
-
-"Yang asal nyomot bijinya besar sebelah" -balalii
